@@ -5,7 +5,7 @@ How to run:
 Please use the following link to download the dataset:
 https://www.kaggle.com/datasets/kostasdiamantaras/chest-xrays-bacterial-viral-pneumonia-normal
 
-Place the archive folder in the same directory as the jupyter notebooks. 
+Unzip and place the archive folder in the same directory as the jupyter notebooks. 
 
 In order to run our code, please run the files in the following order:
   1. resnet_model_pneumonia_classification.ipynb
